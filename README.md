@@ -5,18 +5,14 @@
 <p><strong>Atualmente estou estudando para aprimorar minhas habilidades e me tornar um desenvolvedor Full Stack.</strong></p>
 
 <p><strong>Stack:</strong></p>
-<div style="display: flex; align-items: center; gap: 20px;">
-  <!-- Badges de tecnologia -->
-  <div style="display: flex; gap: 10px;">
-    <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML"/>
-    <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=157286" alt="CSS"/>
-    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git"/>
-    <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" alt="MySQL"/>
-  </div>
-  <!-- Imagem ao lado direito -->
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Gif" width="200px" />
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML"/>
+  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=157286" alt="CSS"/>
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git"/>
+  <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" alt="MySQL"/>
 </div>
+
 
 <p><strong>Atualmente estudando:</strong></p>
 <p>
