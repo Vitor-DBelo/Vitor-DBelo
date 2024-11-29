@@ -18,6 +18,15 @@
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" alt="Docker"/>
 </p>
+<br>
+<p>Links sociais</p>
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+  <a href="https://www.linkedin.com/in/vitor-daniel-44b748293/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</div>
+
+<br>
 
 <div style="background-color:#2a2f32; padding: 10px; border-radius: 10px; display: flex; gap: 10px;">
   <a href="https://beacons.ai/Vitor-DBelo">
@@ -29,10 +38,9 @@
          style="border-radius: 10px; border: 2px solid #3c4347;"/>
   </a>
 </div>
+<br>
 
-<p>Links sociais</p>
-<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-  <a href="https://www.linkedin.com/in/vitor-daniel-44b748293/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin" alt="LinkedIn"/>
-  </a>
-</div>
+<p><strong>Contribuições:</strong></p>
+<img src="https://activity-graph.herokuapp.com/graph?username=Mth&theme-gotham&hide_border=true&area=true" alt="Contribuições"/>
+
+
