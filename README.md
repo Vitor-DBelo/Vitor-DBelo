@@ -13,7 +13,7 @@
 </p>
 
 
-<h3><strong>Atualmente estudando:</strong><h3/>
+<p><strong>Atualmente estudando:</strong><p/>
   <br><br>
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" alt="Docker"/>
@@ -41,6 +41,6 @@
 <br>
 
 <p><strong>Contribuições:</strong></p>
-<img src="https://github-readme-stats.vercel.app/api?username=Vitor-DBelo&show_icons=true&theme=dark&hide_title=true&count_private=true&hide_border=true" alt="Contribuições"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=Vitor-DBelo&theme=gotham&hide_border=true&area=true" alt="Contribuições"/>
 
 
