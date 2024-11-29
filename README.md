@@ -1,27 +1,40 @@
+<!-- Imagem do lado direito -->
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fclaabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg" />
+
+<!-- Título com animação -->
 <h1 align="left">
-  Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, Eu Sou o Vítor
+  Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vítor
 </h1>
 
+<!-- Exibir contagem de visualizações do perfil -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Vitor-DBelo&color=yellow" alt="Profile views" />
+</p>
+
+<!-- Descrição sobre o estudante -->
 <p><strong>Atualmente estou estudando para aprimorar minhas habilidades e me tornar um desenvolvedor Full Stack.</strong></p>
 
+<!-- Stack de tecnologias -->
 <p><strong>Stack:</strong></p>
-<div style="display: flex; gap: 10px;">
-  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML"/>
-  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=157286" alt="CSS"/>
-  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git"/>
-  <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" alt="MySQL"/>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <!-- Badges de tecnologia -->
+  <div style="display: flex; gap: 10px;">
+    <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML"/>
+    <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=157286" alt="CSS"/>
+    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git"/>
+    <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" alt="MySQL"/>
+  </div>
 </div>
 
-
+<!-- Atuais estudos -->
 <p><strong>Atualmente estudando:</strong></p>
 <p>
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" alt="Docker"/>
 </p>
 
-<br>
-
+<!-- Links sociais -->
 <p><strong>Links sociais:</strong></p>
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
   <a href="https://www.linkedin.com/in/vitor-daniel-44b748293/" target="_blank">
@@ -31,6 +44,7 @@
 
 <br>
 
+<!-- Estatísticas -->
 <div style="background-color:#2a2f32; padding: 10px; border-radius: 10px; display: flex; gap: 10px;">
   <a href="https://beacons.ai/Vitor-DBelo">
     <img height="180em" 
@@ -41,5 +55,3 @@
          style="border-radius: 10px; border: 2px solid #3c4347;"/>
   </a>
 </div>
-
-<br>
