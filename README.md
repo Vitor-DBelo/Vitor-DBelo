@@ -1,9 +1,9 @@
-<!-- Imagem do lado direito -->
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fclaabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg" />
+<!-- Imagem do gif de chuva à direita -->
+<img align="right" height="590em" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" />
 
 <!-- Título com animação -->
 <h1 align="left">
-  Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vítor
+  Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, Eu Sou o Vítor
 </h1>
 
 <!-- Exibir contagem de visualizações do perfil -->
