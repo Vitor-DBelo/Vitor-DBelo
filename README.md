@@ -13,6 +13,7 @@
 </p>
 
 <p><strong>Atualmente estudando:</strong>
+  <br>
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" alt="Docker"/>
 </p>
