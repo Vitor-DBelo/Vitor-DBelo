@@ -1,10 +1,15 @@
 <h1 align="left">
   Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, Eu Sou o Vítor
 </h1>
-<p><strong>Atualmente estou estudando para aprimorar minhas habilidades e me tornar um desenvolvedor Full Stack.
+
+<!-- Inserindo o GIF de chuva atrás -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Efeito de Chuva" width="100%" />
+</p>
+
 <br>
 <p><strong>Stack:</strong> 
-  <br><br>
+  <br>
   <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML"/>
   <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=157286" alt="CSS"/>
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript"/>
@@ -12,21 +17,15 @@
   <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" alt="MySQL"/>
 </p>
 
+<hr style="border: 1px solid #3c4347; width: 50%; margin: 10px 0;"/>
 
-<p><strong>Atualmente estudando:</strong><p/>
-  <br><br>
+<p><strong>Atualmente estudando:</strong>
+  <br>
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" alt="Docker"/>
 </p>
-<br>
-<p>Links sociais</p>
-<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-  <a href="https://www.linkedin.com/in/vitor-daniel-44b748293/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin" alt="LinkedIn"/>
-  </a>
-</div>
 
-<br>
+<hr>
 
 <div style="background-color:#2a2f32; padding: 10px; border-radius: 10px; display: flex; gap: 10px;">
   <a href="https://beacons.ai/Vitor-DBelo">
@@ -38,7 +37,3 @@
          style="border-radius: 10px; border: 2px solid #3c4347;"/>
   </a>
 </div>
-<br>
-
-
-
