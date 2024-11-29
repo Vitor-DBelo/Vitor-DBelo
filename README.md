@@ -3,11 +3,16 @@
 </h1>
 
 <br>
-<p>Steck</p>
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) 
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=157286)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+<p><strong>Stack:</strong> 
+  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML"/>
+  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=157286" alt="CSS"/>
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript"/>
+</p>
+
+<p><strong>Atualmente estudando:</strong>
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" alt="Docker"/>
+</p>
 
 <div style="background-color:#2a2f32; padding: 10px; border-radius: 10px; display: flex; gap: 10px;">
   <a href="https://beacons.ai/Vitor-DBelo">
