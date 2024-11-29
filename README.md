@@ -4,7 +4,7 @@
 
 <div>
   <a href="https://beacons.ai/Vitor-DBelo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitor-DBelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-DBelo&layout=compact&langs_count=16&theme=dracula" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitor-DBelo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-DBelo&layout=compact&langs_count=16&theme=tokyonight" />
   </a>
 </div>
