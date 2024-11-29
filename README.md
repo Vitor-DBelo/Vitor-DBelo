@@ -1,7 +1,7 @@
 <h1 align="left">
   Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, Eu Sou o Vítor
 </h1>
-
+<p><strong>Atualmente estou estudando para aprimorar minhas habilidades e me tornar um desenvolvedor Full Stack.
 <br>
 <p><strong>Stack:</strong> 
   <br><br>
@@ -40,7 +40,5 @@
 </div>
 <br>
 
-<p><strong>Contribuições:</strong></p>
-<img src="https://activity-graph.herokuapp.com/graph?username=Vitor-DBelo&theme=gotham&hide_border=true&area=true" alt="Contribuições"/>
 
 
