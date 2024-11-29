@@ -32,10 +32,7 @@
 
 <p>Links sociais</p>
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+  <a href="https://www.linkedin.com/in/vitor-daniel-44b748293/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:seuemail@dominio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-05122A?style=flat&logo=gmail" alt="Email"/>
   </a>
 </div>
