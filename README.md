@@ -11,13 +11,13 @@
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git"/>
   <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" alt="MySQL"/>
 </p>
-
+<hr>
 <p><strong>Atualmente estudando:</strong>
   <br>
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" alt="Docker"/>
 </p>
-
+<hr>
 <div style="background-color:#2a2f32; padding: 10px; border-radius: 10px; display: flex; gap: 10px;">
   <a href="https://beacons.ai/Vitor-DBelo">
     <img height="180em" 
