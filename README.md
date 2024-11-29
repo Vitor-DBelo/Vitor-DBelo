@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git"/>
   <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" alt="MySQL"/>
 </p>
-<hr style="border: 1px solid #3c4347;">
+<hr style="border: 1px solid #3c4347; width: 50%; margin: 10px 0;"/>
 <p><strong>Atualmente estudando:</strong>
   <br>
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript"/>
