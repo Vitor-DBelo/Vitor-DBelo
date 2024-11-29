@@ -41,7 +41,6 @@
 <br>
 
 <p><strong>Contribuições:</strong></p>
-<img src="https://activity-graph.herokuapp.com/graph?BreadcrumbsVitor-DBelo
-=Mth&theme-gotham&hide_border=true&area=true" alt="Contribuições"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=Mth&theme=gotham&hide_border=true&area=true" alt="Contribuições"/>
 
 
