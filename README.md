@@ -4,21 +4,21 @@
 
 <br>
 <p><strong>Stack:</strong> 
-  <br>
+  <br><br>
   <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML"/>
   <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=157286" alt="CSS"/>
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git"/>
   <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" alt="MySQL"/>
 </p>
-<hr style="border: 1px solid #3c4347; width: 50%; max-width: 400px; margin: 10px 0;"/>
+
 
 <p><strong>Atualmente estudando:</strong>
-  <br>
+  <br><br>
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" alt="Docker"/>
 </p>
-<hr>
+
 <div style="background-color:#2a2f32; padding: 10px; border-radius: 10px; display: flex; gap: 10px;">
   <a href="https://beacons.ai/Vitor-DBelo">
     <img height="180em" 
@@ -27,5 +27,15 @@
     <img height="180em" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-DBelo&layout=compact&langs_count=16&theme=dark" 
          style="border-radius: 10px; border: 2px solid #3c4347;"/>
+  </a>
+</div>
+
+<p>Links sociais</p>
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:seuemail@dominio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-05122A?style=flat&logo=gmail" alt="Email"/>
   </a>
 </div>
