@@ -1,5 +1,5 @@
-<!-- Imagem do gif de chuva à direita -->
-<img align="right" height="590em" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" />
+<!-- Imagem do gif de chuva à direita com tamanho ajustado -->
+<img align="right" width="400px" height="400px" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" />
 
 <!-- Título com animação -->
 <h1 align="left">
