@@ -37,15 +37,6 @@
 
 <br><br>
 
-<div style="background-color:#2a2f32; padding: 10px; border-radius: 10px; display: flex; gap: 10px;">
-  <a href="https://beacons.ai/Vitor-DBelo">
-    <img height="180em" 
-         src="https://github-readme-stats.vercel.app/api?username=Vitor-DBelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&v=2"
-         style="border-radius: 10px; border: 2px solid #3c4347;"/>
-    <img height="180em" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-DBelo&layout=compact&langs_count=16&theme=dark&v=2"
-         style="border-radius: 10px; border: 2px solid #3c4347;"/>
-  </a>
-</div>
+
 
 
