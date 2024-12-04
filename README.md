@@ -14,7 +14,7 @@
   <div style="display: flex; gap: 10px;">
     <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML"/>
     <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=157286" alt="CSS"/>
-    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=node.js" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git"/>
     <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" alt="MySQL"/>
   </div>
