@@ -36,16 +36,16 @@
 </div>
 
 <br><br>
-
 <div style="background-color:#2a2f32; padding: 10px; border-radius: 10px; display: flex; gap: 10px;">
-  <a href="https://beacons.ai/Vitor-DBelo">
-    <img height="180em" 
+  <a href="https://beacons.ai/Vitor-DBelo" target="_blank" rel="noopener noreferrer">
+    <img height="180" 
          src="https://github-readme-stats.vercel.app/api?username=Vitor-DBelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
-         style="border-radius: 10px; border: 2px solid #3c4347;"/>
-    <img height="180em" 
+         style="border-radius: 10px; border: 2px solid #3c4347;" alt="GitHub Stats"/>
+    <img height="180" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-DBelo&layout=compact&langs_count=16&theme=dark"
-         style="border-radius: 10px; border: 2px solid #3c4347;"/>
+         style="border-radius: 10px; border: 2px solid #3c4347;" alt="Top Languages"/>
   </a>
 </div>
+
 
 
