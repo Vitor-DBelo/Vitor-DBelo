@@ -6,7 +6,7 @@
   Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, Eu Sou o Vítor
 </h1>
 
-<p><strong>Atualmente estou estudando para aprimorar minhas habilidades e me tornar um desenvolvedor Full Stack.</strong>🚀</p>
+<p><strong>Atualmente estou estudando para aprimorar minhas habilidades e me tornar um desenvolvedor Full Stack.</strong>🚀🚀</p>
 
 <p><strong>Stack:</strong></p>
 <div style="display: flex; align-items: center; gap: 20px;">
