@@ -23,7 +23,7 @@
 
 <p><strong>Atualmente estudando:</strong></p>
 <p>
-  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js" alt="Node.js"/>
   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" alt="Docker"/>
 </p>
 
