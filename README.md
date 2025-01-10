@@ -36,7 +36,7 @@
 </div>
 
 <br><br>
-<div style="background-color: #2a2f32; padding: 20px; border-radius: 15px; display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
+<div style="background-color: #6a0dad; padding: 20px; border-radius: 15px; display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
   <a href="https://beacons.ai/Vitor-DBelo" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img 
       height="180" 
@@ -54,6 +54,7 @@
     />
   </a>
 </div>
+
 
 
 
