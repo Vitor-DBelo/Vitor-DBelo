@@ -17,13 +17,14 @@
     <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git"/>
     <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js" alt="Node.js"/>
   </div>
 </div>
 
 
 <p><strong>Atualmente estudando:</strong></p>
 <p>
-  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" alt="Docker"/>
 </p>
 
